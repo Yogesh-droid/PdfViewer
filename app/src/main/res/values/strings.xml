@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">PdfViewer</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close" />
+    <string name="open" />
+
+    <string-array name="java_adv_topics">
+        <item>java_adv_Topic 1</item>
+        <item>java_adv_Topic 2</item>
+        <item>java_adv_Topic 3</item>
+        <item>java_adv_Topic 4</item>
+        <item>java_adv_Topic 5</item>
+        <item>java_adv_Topic 6</item>
+        <item>java_adv_Topic 7</item>
+        <item>java_adv_Topic 8</item>
+        <item>java_adv_Topic 9</item>
+        <item>java_adv_Topic 10</item>
+        <item>java_adv_Topic 11</item>
+        <item>java_adv_Topic 12</item>
+        <item>java_adv_Topic 13</item>
+        <item>java_adv_Topic 14</item>
+        <item>java_adv_Topic 15</item>
+        <item>java_adv_Topic 16</item>
+
+    </string-array>
+
+    <string-array name="java_topic_details">
+        <item>Topic-1
+        this is explaination of topic 1
+        </item>
+        <item>Topic-2
+        this is explaination of topic 2
+        </item>
+        <item>Topic-3
+        this is explaination of topic 3
+        </item>
+        <item>Topic-4
+        this is explaination of topic 4
+        </item>
+        <item>Topic-5
+        this is explaination of topic 5
+        </item>
+        <item>Topic-6
+        this is explaination of topic 6
+        </item>
+        <item>Topic-7
+        this is explaination of topic 7
+        </item>
+        <item>Topic-8
+        this is explaination of topic 8
+        </item>
+        <item>Topic-9
+        this is explaination of topic 9
+        </item>
+        <item>Topic-10
+        this is explaination of topic 10
+        </item>
+        <item>Topic-11
+        this is explaination of topic 11
+        </item>
+        <item>Topic-12
+        this is explaination of topic 12
+        </item>
+        <item>Topic-13
+        this is explaination of topic 13
+        </item>
+        <item>Topic-14
+        this is explaination of topic 14
+        </item>
+        <item>Topic-15
+        this is explaination of topic 15
+        </item>
+        <item>Topic-16
+        this is explaination of topic 16
+        </item>
+    </string-array>
+
+    <string-array name="c_topic_list">
+        <item>C_adv_Topic 1</item>
+        <item>C_adv_Topic 2</item>
+        <item>C_adv_Topic 3</item>
+        <item>C_adv_Topic 4</item>
+        <item>C_adv_Topic 5</item>
+        <item>C_adv_Topic 6</item>
+        <item>C_adv_Topic 7</item>
+        <item>C_adv_Topic 8</item>
+        <item>C_adv_Topic 9</item>
+        <item>C_adv_Topic 10</item>
+        <item>C_adv_Topic 11</item>
+        <item>C_adv_Topic 12</item>
+        <item>C_adv_Topic 13</item>
+        <item>C_adv_Topic 14</item>
+        <item>C_adv_Topic 15</item>
+        <item>C_adv_Topic 16</item>
+
+
+    </string-array>
+
+    <string-array name="C_topic_details">
+        <item>Topic-1
+        this is explaination of topic 1
+        </item>
+        <item>Topic-2
+        this is explaination of topic 2
+        </item>
+        <item>Topic-3
+        this is explaination of topic 3
+        </item>
+        <item>Topic-4
+        this is explaination of topic 4
+        </item>
+        <item>Topic-5
+        this is explaination of topic 5
+        </item>
+        <item>Topic-6
+        this is explaination of topic 6
+        </item>
+        <item>Topic-7
+        this is explaination of topic 7
+        </item>
+        <item>Topic-8
+        this is explaination of topic 8
+        </item>
+        <item>Topic-9
+        this is explaination of topic 9
+        </item>
+        <item>Topic-10
+        this is explaination of topic 10
+        </item>
+        <item>Topic-11
+        this is explaination of topic 11
+        </item>
+        <item>Topic-12
+        this is explaination of topic 12
+        </item>
+        <item>Topic-13
+        this is explaination of topic 13
+        </item>
+        <item>Topic-14
+        this is explaination of topic 14
+        </item>
+        <item>Topic-15
+        this is explaination of topic 15
+        </item>
+        <item>Topic-16
+        this is explaination of topic 16
+        </item>
+    </string-array>
+</resources>
